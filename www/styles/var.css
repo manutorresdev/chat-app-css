@@ -1,0 +1,22 @@
+:root {
+    --paleviolet: hsl(276, 100%, 81%);
+    /* left chat \/ */
+    --modviolet: hsl(276, 55%, 52%);
+    /* right chat \/ */
+    --darkviolet: hsl(271, 15%, 43%);
+    /* placeholder text */
+    --grayishblue: hsl(206, 6%, 79%);
+    --desatviolet: hsl(271, 36%, 24%);
+    /* paragraph \/ */
+    --grayishviolet: hsl(270, 7%, 64%);
+    /* linear gradient color \/ */
+    --linear1: hsl(293, 100%, 63%);
+    /* linear gradient color \/ */
+    --linear2: hsl(264, 100%, 61%);
+    /* app background */
+    --backgroundcolor: hsl(270, 20%, 96%);
+    /* submit button bckground */
+    --buttonback: hsl(271, 36%, 24%);
+    /* button outline */
+    --lightmag: hsl(289, 100%, 72%);
+}
